@@ -12,6 +12,7 @@
 
 # 1st Deliverable
 
+After a brief research i found the lines corresponding to the primitive shapes and i integrated them into my code, after that i integrated the particle system and in the end i fixed the particle system with a voice activated command, but i couldn't make it work.
 
 # 2nd Deliverable
 
